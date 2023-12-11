@@ -1,0 +1,355 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+@media screen and (min-width: 250px) {
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+
+body{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    margin: 0px;
+    padding: 0px; 
+    overflow-x: hidden;
+}
+
+
+.links a{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin-left: 5px;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    color: #3A5E9B;
+    
+
+}
+.links img{
+    
+    width: 25px;
+    height: 25px;
+    margin-bottom: -2px;
+    margin-left: -5px;
+    
+}
+.links{
+    width: 100%;
+    background-color: #E8F4F8;
+    margin: 0px 5px;
+    margin-top: 0%;
+    font-weight: bold;
+    margin: 0;
+    z-index: 1000;
+    position: fixed;
+    color: #ffffff;
+    
+}
+
+.links p{
+    background-color: #3A5E9B;
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner2{
+    color:#3A5E9B;
+    background-color: #e6e6e6;
+    height: 50px 0;
+    padding: 80px;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+    margin-bottom: -90px;
+    margin-top: -130px;
+    margin-left: 0px;
+    margin-right: -55px;
+      
+}
+
+.banner2 img{
+    width: 80px;
+    height: 80px;
+
+}
+ .topo img{
+    width: 400px;
+    height: 200px;
+    padding-top: 53px;
+ }
+
+.cont2{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    text-align: left;
+    font-size: 8px;
+}
+
+.cont2 .tu{
+    width: 600px;
+    margin-top: 20%;
+    margin-left: -90px;
+    margin-right: -40px;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+.tu{
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+    text-align: left;
+    margin-top: 0px;
+}
+
+.sub  p{
+    text-align: center;
+    font-size: 10px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    margin-left: -80px;
+    color: black;
+    margin-top: 15px;
+   
+}
+
+.tu h2{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: -5px;
+    
+    
+}
+
+.tu p{
+    font-size: 13px;
+    text-align: center;
+    margin-left: 5px;
+    padding-top: 5px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner {
+    color: rgb(0, 0, 0);
+    padding: 100px 0;
+    box-sizing: border-box;
+    margin-bottom: -100;
+    width: 400px;
+    height: auto;
+    margin-left: 80px;
+    margin-top: -40px;
+    
+    /* Defina outros estilos necessários para a imagem */
+}
+
+.img2 img{
+    width: 350px;
+    height: 200px;
+    padding-top: 110px;
+    margin-left: 0px;
+    
+}
+
+.banner .cont {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    margin-left: -80px;
+}
+
+
+.sub2{
+    font-size: 13px;
+    color: #874fc2;
+    text-align: center;
+    margin-right: -100px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    
+}
+
+.sub3 {
+    font-size: 13px;
+    color: #874fc2;
+    text-align: center;
+    margin-right: -100px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+}
+
+.conteudo h2{
+    font-size: 12px;
+    text-align: center;
+    margin-right: -80px;
+    margin-left: -20px;
+    padding-bottom: 5px;
+    
+}
+
+}
+.banner .text-content {
+    width: 70%;
+    padding-left: 20px;
+    font-size: 12px;
+    text-align: left;
+    margin-top: -40px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(to right, #874fc2, #395a7e);
+    border-radius: 5px;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 20px;
+  }
+  
+  .button:hover {
+    transform: scale(1.1);
+  }
+
+
+
+
+
+
+
+
+
+
+.cursos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+    padding: 20px;
+    padding-bottom: 20px;
+    background-color: #E8F4F8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para o título */
+.titulo {
+    font-size: 27px;
+    font-weight: bold;
+    color: #395a7e;
+    margin-bottom: 10px;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Estilo para o contêiner da imagem */
+.img-container {
+    width: 85%;
+    border: 10px solid #395a7e;
+    border-radius: 5px;
+    overflow: hidden; /* Para que as bordas sigam a largura da imagem */
+    margin-bottom: 10px;
+}
+
+/* Estilo para a imagem */
+.banner-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+/* Estilo para o preço */
+.preco {
+    font-size: 18px;
+    color: #874fc2;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilo para a imagem do carrinho */
+.cart-icon {
+    width: 30px; /* Defina o tamanho desejado para o ícone do carrinho */
+    height: auto;
+    margin-right: 5px; /* Espaçamento à direita */
+}
+
+/* Estilo para as parcelas */
+.installments {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+/* Estilo para o botão Saiba Mais */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(to right, #874fc2, #395a7e);
+    border-radius: 5px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.button:hover {
+    transform: scale(1.1);
+}
+
+.rod img{
+    width: 25px;
+    height: 25px;
+    margin-bottom: -2px;
+    margin-left: -5px;
+    padding-top: 5px;
+}
+
+.rod p{
+    background-color: #3A5E9B;
+    margin: 0;
+    height: 40px;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif; 
+    color: #fff;
+}
+
+
+
